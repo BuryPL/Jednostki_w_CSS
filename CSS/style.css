@@ -6,6 +6,18 @@ html {
     font-size: 30px;
 }
 
+#container>div {
+    background-color: yellow;
+}
+
+#pixels {
+    width: 400px;
+}
+
 #em {
-    font-size: 2em;
+    width: 4em;
+}
+
+#vw {
+    width: 50vw;
 }
