@@ -19,5 +19,13 @@ html {
 }
 
 #vw {
-    width: 50vw;
+    width: 20vw;
+}
+
+#vh {
+    width: 20vh;
+}
+
+#vmin {
+    width: 100vmin;
 }
